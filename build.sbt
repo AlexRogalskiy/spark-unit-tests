@@ -2,9 +2,9 @@ name := "spark-unit-tests"
 
 version := "0.1"
 
-scalaVersion := "2.12.10"
+scalaVersion := "2.11.8"
 
-val sparkVersion = "3.1.0"
+val sparkVersion = "2.3.0"
 val scalaTestVersion = "3.2.5"
 val log4jVersion = "2.4.1"
 
